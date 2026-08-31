@@ -5,5 +5,4 @@ week1:Python快速复习
 week1路线：
 https://chatgpt.com/share/6a953710-619c-83e9-b103-3935e80d905a
 
-总路线：
-https://chatgpt.com/share/6a95318f-3d9c-83ea-855c-1f988872ecd0
+
