@@ -1,2 +1,2 @@
-week1Python快速复习
+week1:Python快速复习
 代码任务：学生成绩管理  CSV 数据统计小程序
